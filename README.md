@@ -1,1 +1,5 @@
-# TP_Final_Mat3
+# Red Neuronal
+
+Julieta Gómez
+Mat III
+2025
